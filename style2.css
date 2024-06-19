@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(190, 154, 224);
+}
+
+form {
+  text-align: center;
+  float: center;
+  padding-top: 50px;
+}
+
+#resultado {
+  color: black;
+}
+
+#n1 {
+  border: solid 2px black;
+}
+
+#n2 {
+  border: solid 2px black;
+}
+
+.titulo {
+  text-align: center;
+  padding: 50px;
+}
